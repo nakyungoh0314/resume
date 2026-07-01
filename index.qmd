@@ -1,114 +1,90 @@
 ---
-title: "Ada Lovelace, JD PhD"
+title: "Nakyung (Chloe) Oh"
 ---
 
-+44 20 5555 5555 | <ada.lovelace@email.co.uk> | [linkedin.com/in/adalovelace](https://www.linkedin.com/in/adalovelace/)
+415 W Gilman St, Apt. 508, Madison, WI 53703 | (608) 658-8035 | www.linkedin.com/in/nakyungoh
 
 ## Education
 
-### Ph.D., Educational Leadership & Policy Analysis
+### Master of Science in Psychology: Data Science in Human Behavior
 
-*University of Cambridge · 2018*
+*University of Wisconsin-Madison, Madison, WI · Expected Graduation: December 2026*
 
-Dissertation keywords: learning measurement, design of experiments, psychometrics, multi-site research, longitudinal analysis.
+### Bachelor of Science in Psychology, Minor in Statistics
 
-### Juris Doctor
+*University of Cincinnati, Cincinnati, OH · Graduation: December 2024 · GPA 3.809*
 
-*University of London, Faculty of Laws — London, England · 2008*
+## Projects & Research Experience
 
-Founded a scholarship fundraising programme for LGBT+ law students.
+### Does Reading Matter
 
-### B.A., History
+*Mentor: Dr. Nick Buttrick · March 2026 - Present*
 
-*University of Oxford — Oxford, England · 2003*
+- Investigate whether long-term reading habits influence worldview, thinking style, and psychological complexity
+- Partner with team members to design AI prompts for coding and analyzing a Goodreads dataset
+- Construct a custom GPT workflow integrated with the OpenAI API to automate qualitative coding and support large-scale text analysis
 
-Founded Peer Diversity Educators, a campus organisation providing diversity and inclusion education.
+### Brain Emotional Regulation
 
-## Instructional Experience (Selected)
+*Mentor: Dr. João Guassi Moreira · March 2026 - May 2026*
 
-### Teaching Professor
+- Applied decoding methods to build a neural signature that can identify emotion regulation states on unlabeled data
+- Performed parcel-wise classification across 200 predefined brain regions using brain parcellation methods
+- Built a custom K-nearest neighbors decoding model using an emotion regulation dataset, achieving the highest classification accuracy among the project group
 
-*University of Cambridge — Cambridge, England · 1/2021 – Present*
+### Reimplementation of Neural Network Model
 
-- Teach courses providing instruction in programming (Python, SQL, and related), statistics, machine learning, reproducible publication, and large-scale data science processes. Example courses taught include:
-    - MATH 755 — Environments and Tools for Large-Scale Behavioural Data Science
-    - MATH 750 — Programming for Human Behavioural Data Science
-    - MATH 711 — Reproducible Scientific Publishing
-    - STAT 822 — Introduction to Quantitative Inquiry
-    - STAT 823 — Data Management for Policy Analysis
-- Redesigned and delivered beginner and intermediate Python programming curriculum; created and delivered a new course on reproducible scientific publication and dissemination.
-- Teach general statistics (chi-square, correlation, ANOVA, regression, and related). Also teach data science models and methods including k-nearest neighbours, advanced regression, tree-based algorithms, support vector machines, and neural networks.
-- Teach concepts related to the design of experiments and the analysis of unstructured data.
-- Provide students with hands-on experience across a wide variety of AI/ML use cases that span multiple business areas and advanced analytic techniques; teach and mentor junior data scientists.
+*Instructor: Dr. Tim Rogers · January 2026 - May 2026*
 
-## Professional Experience
+- Reimplemented the Rumelhart and McClelland (1986) past-tense neural network model in Python using a modified verb dataset
+- Tested whether the model could reproduce core behavioral patterns in language learning, including overregularization, recovery of irregular verbs, and U-shaped learning
+- Evaluated model performance through accuracy analysis across training stages and verb categories
 
-### Chief Data Scientist
+### Research Assistant
 
-*Analytical Engine Data, Ltd. — Cambridge, England · 1/2021 – Present*
+*Ulrich-Lai Laboratory - UC Metabolic Diseases Institute, Cincinnati, OH · May 2024 - December 2024*
 
-Lead data science consulting engagements across sectors including higher education, healthcare, government (borough, county, and national), finance, and insurance, with a focus on applied machine learning, AI integration, and research analytics. Provide technical leadership on projects that span the full data science lifecycle—from gathering requirements and designing scalable models to deploying final solutions for end users.
+- Analyzed the skills of monitoring and recording the rodents' social interaction behaviors using BORIS program
+- Utilized the GraphPad PRISM program to analyze the statistical significance of rodents' behavior
+- Conducted the ImageJ program on finding the intensity of the PNN and parvalbumin cells in the prefrontal cortex
 
-- Advise clients on data strategy, statistical methodology, and AI/ML integration, including the use of natural language processing, large language models, and generative AI.
-- Design and implement sophisticated analytical work, including data wrangling, feature engineering, model training, evaluation, and interpretation; develop reproducible workflows with an emphasis on stakeholder communication.
-- Support long- and short-term consulting projects with deliverables that include decision support tools, predictive models, and analytics-driven insights.
-- Selected clients: GlaxoSmithKline, AstraZeneca, the Bank of England, the National Health Service, HM Treasury, the Royal Mail, the British Broadcasting Corporation, the University of Edinburgh, Lloyd's of London, the Royal Statistical Society, and others.
+### Data Collector
 
-### Data Scientist + Data Governance Consultant, Government Client
+*'Play a Retro Video Game' Research - University of Cincinnati, OH · March 2024 - April 2024*
 
-*Whitehall Analytics — London, England · 3/2020 – 1/2021*
+- Provided guidance to participants on playing the video game and offer assistance when needed
+- Organized participants' registration timeslots and gather basic information
+- Compiled data from participants surveys and gathered it into a single file for the researchers to use for analyzing
 
-Provided expertise on advanced analytics and data governance for the Office of the Chief Data Officer at a major government department.
+### Research Assistant
 
-- Experience managing multiple technical projects simultaneously, designed to establish and build a data-driven culture.
-- Experience gathering and interpreting business requirements to design and create scalable data science solutions in a regulatory environment (including, but not limited to, insurance, healthcare, and finance).
-- Served as subject-matter expert on advanced analytics, data standards, data quality, data sharing, and data policy.
-- Planned and executed qualitative and quantitative research designed to understand the client's data-related capacity and needs.
+*Children Cognitive Research Lab - University of Cincinnati, Cincinnati, OH · September 2023 - August 2024*
 
-### Data Scientist
+- Developed proficiency in using Google Sheets for efficient data entry and organization
+- Entered data collected from children at Corryville Elementary School into Google Sheets
+- Collaborated with fellow lab members to score data and analyze children's cognitive math learning abilities
 
-*UCAS (Universities and Colleges Admissions Service) — Cheltenham, England · 8/2018 – 2/2020*
+## Work Experience
 
-Hired as the inaugural research data scientist and introduced the organisation to the discipline of data science. Oversaw research operations, including the selection of appropriate research questions, choice of methods, and dissemination strategies. Supervised project managers and contractors in implementing a data warehouse, building catalogues of predictive models to predict the behaviour of university applicants, and studying the behaviour and experiences of university applicants.
+### Academic Administrator
 
-- Co-authored successful grant applications totalling nearly £2M; negotiated in-kind support from private and public sources.
-- Established new collaborations with institutions including the University of Cambridge and the Open University (serving as a liaison between multiple universities and private organisations).
-- Conducted original quantitative research related to university admissions and enrolment, and collaborated with external researchers; planned and implemented a robust research agenda including randomised controlled trials, econometric quasi-experimental analysis, and other techniques involving machine learning methods.
+*Platinum SAT Academy, Seoul, South Korea · January 2025 - August 2025*
 
-### Senior Divisional Policy Adviser
+- Implemented a Google Sheets scheduling system to monitor student and teacher availability and improve class coordination
+- Designed advanced vocabulary assessments to support students' language development for SAT exams
+- Onboarded new administrative staff on operational procedures and effective use of Google Sheets management tools
 
-*University of London — London, England · 6/2017 – 8/2018*
+### Pre-Art Therapy Intern
 
-Served as the Division of Enrolment Management's chief researcher, providing institution-wide research support services for faculty, staff, and students. Conducted quantitative and qualitative research related to university admissions and enrolment.
+*University of Cincinnati Gardner Neuroscience Institute, Cincinnati, OH · January 2024 - May 2024*
 
-- Recruited and supported fellow researchers in the planning, development, and implementation of research.
-- Developed and curated research resources including research guides, data sets, and documentation.
-- Developed and introduced a model to predict student academic performance.
+- Conducted patient screenings for individuals with multiple sclerosis during art therapy sessions
+- Prepared and organized essential supplies to facilitate therapy
+- Engaged patients in reflective conversations about their completed artwork to support emotional expression and interpretation
 
-### Educational Programme Manager
+## Skills
 
-*University of London — London, England · 8/2014 – 12/2016*
-
-Oversaw the planning, communication, and implementation of an institution-wide alcohol education and effective-bystander training programme.
-
-- Planned and implemented a comprehensive research and assessment programme designed to measure student learning and development.
-- Supervised the delivery of 10–15 educational programmes each week, serving 1,500–2,500 students each term.
-
-### On-Site Director, Oxford Talent Identification Programme
-
-*University of Oxford — Oxford, England · Summer 2007 & Summer 2014 (Summer Programmes, Seasonal)*
-
-Directed operational and instructional leadership for the Oxford Talent Identification Programme. Managed staff training, instructional oversight, disciplinary processes, site finances, and logistical coordination. Supervised and mentored leadership staff. Oversaw day-to-day operations, including project scoping, resource allocation, and outcome communication. Ensured seamless logistical and financial operations to support programme goals and stakeholder satisfaction.
-
-### Associate Director of Residence Life
-
-*University of Durham — Durham, England · 7/2008 – 8/2014*
-
-Promoted from Assistant Director for Student Conduct Administration to Associate Director, overseeing strategic and innovative leadership across student service areas, including residence life, student conduct, diversity education, academic support, and student organisations.
-
-- Recruited, hired, trained, and coached diverse teams, including full-time staff, graduate staff, undergraduate staff, and interns, while fostering mentorship and professional development. Researched, documented, and communicated the source and scope of project work for all personnel under my supervision.
-- Managed operational logistics, event planning, and facilities for university programmes, ensuring efficient resource utilisation.
-- Oversaw the administration of 1,000+ cases of student discipline involving 2,000+ individuals each year.
-- Administered campus-wide community conflict-management and resolution policies, including community agreements and mediation programmes; also designed and implemented academic intervention programmes to enhance student success, incorporating mentorship, skills development, and collaboration with faculty and families.
-- Prevented suspension and expulsion by developing and implementing an academic intervention and recovery programme for struggling students; the programme consisted of one-to-one mentorship, group enrichment activities, parent and family initiatives, faculty collaboration, and life-skills training.
-- Advocated for inclusive practices and engaged with diverse stakeholder groups to support institution-wide initiatives and educational outcomes.
+- **Language:** Korean (native), English (fluent)
+- **Laboratory:** JASP, GraphPad PRISM, Behavioral Observation Research Interactive Software (BORIS), ImageJ
+- **Software:** Microsoft Office (Word, PowerPoint, Excel), Google Sheets (Excel), R studio, SAS, Python
+- **Certificate:** CITI program (ID: 12546421), Mental Health First Aid USA (ID: 220924681)
