@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nakyung (Chloe) Oh",
+    "section": "",
+    "text": "415 W Gilman St, Apt. 508, Madison, WI 53703 | (608) 658-8035 | www.linkedin.com/in/nakyungoh"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nakyung (Chloe) Oh",
+    "section": "Education",
+    "text": "Education\n\nMaster of Science in Psychology: Data Science in Human Behavior\nUniversity of Wisconsin-Madison, Madison, WI · Expected Graduation: December 2026\n\n\nBachelor of Science in Psychology, Minor in Statistics\nUniversity of Cincinnati, Cincinnati, OH · Graduation: December 2024 · GPA 3.809"
+  },
+  {
+    "objectID": "index.html#projects-research-experience",
+    "href": "index.html#projects-research-experience",
+    "title": "Nakyung (Chloe) Oh",
+    "section": "Projects & Research Experience",
+    "text": "Projects & Research Experience\n\nDoes Reading Matter\nMentor: Dr. Nick Buttrick · March 2026 - Present\n\nInvestigate whether long-term reading habits influence worldview, thinking style, and psychological complexity\nPartner with team members to design AI prompts for coding and analyzing a Goodreads dataset\nConstruct a custom GPT workflow integrated with the OpenAI API to automate qualitative coding and support large-scale text analysis\n\n\n\nBrain Emotional Regulation\nMentor: Dr. João Guassi Moreira · March 2026 - May 2026\n\nApplied decoding methods to build a neural signature that can identify emotion regulation states on unlabeled data\nPerformed parcel-wise classification across 200 predefined brain regions using brain parcellation methods\nBuilt a custom K-nearest neighbors decoding model using an emotion regulation dataset, achieving the highest classification accuracy among the project group\n\n\n\nReimplementation of Neural Network Model\nInstructor: Dr. Tim Rogers · January 2026 - May 2026\n\nReimplemented the Rumelhart and McClelland (1986) past-tense neural network model in Python using a modified verb dataset\nTested whether the model could reproduce core behavioral patterns in language learning, including overregularization, recovery of irregular verbs, and U-shaped learning\nEvaluated model performance through accuracy analysis across training stages and verb categories\n\n\n\nResearch Assistant\nUlrich-Lai Laboratory - UC Metabolic Diseases Institute, Cincinnati, OH · May 2024 - December 2024\n\nAnalyzed the skills of monitoring and recording the rodents’ social interaction behaviors using BORIS program\nUtilized the GraphPad PRISM program to analyze the statistical significance of rodents’ behavior\nConducted the ImageJ program on finding the intensity of the PNN and parvalbumin cells in the prefrontal cortex\n\n\n\nData Collector\n‘Play a Retro Video Game’ Research - University of Cincinnati, OH · March 2024 - April 2024\n\nProvided guidance to participants on playing the video game and offer assistance when needed\nOrganized participants’ registration timeslots and gather basic information\nCompiled data from participants surveys and gathered it into a single file for the researchers to use for analyzing\n\n\n\nResearch Assistant\nChildren Cognitive Research Lab - University of Cincinnati, Cincinnati, OH · September 2023 - August 2024\n\nDeveloped proficiency in using Google Sheets for efficient data entry and organization\nEntered data collected from children at Corryville Elementary School into Google Sheets\nCollaborated with fellow lab members to score data and analyze children’s cognitive math learning abilities"
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Nakyung (Chloe) Oh",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nAcademic Administrator\nPlatinum SAT Academy, Seoul, South Korea · January 2025 - August 2025\n\nImplemented a Google Sheets scheduling system to monitor student and teacher availability and improve class coordination\nDesigned advanced vocabulary assessments to support students’ language development for SAT exams\nOnboarded new administrative staff on operational procedures and effective use of Google Sheets management tools\n\n\n\nPre-Art Therapy Intern\nUniversity of Cincinnati Gardner Neuroscience Institute, Cincinnati, OH · January 2024 - May 2024\n\nConducted patient screenings for individuals with multiple sclerosis during art therapy sessions\nPrepared and organized essential supplies to facilitate therapy\nEngaged patients in reflective conversations about their completed artwork to support emotional expression and interpretation"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Nakyung (Chloe) Oh",
+    "section": "Skills",
+    "text": "Skills\n\nLanguage: Korean (native), English (fluent)\nLaboratory: JASP, GraphPad PRISM, Behavioral Observation Research Interactive Software (BORIS), ImageJ\nSoftware: Microsoft Office (Word, PowerPoint, Excel), Google Sheets (Excel), R studio, SAS, Python\nCertificate: CITI program (ID: 12546421), Mental Health First Aid USA (ID: 220924681)"
+  }
+]
